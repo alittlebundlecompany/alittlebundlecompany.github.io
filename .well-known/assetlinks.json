@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.vladimaio.Cashback",
+      "sha256_cert_fingerprints": [
+        "B7:9A:55:5F:5C:D0:B2:DC:6B:DA:26:44:7F:5C:99:88:C5:D9:AF:05:F8:FF:C4:7D:50:D4:4D:BD:ED:85:90:7C"
+      ]
+    }
+  }
+]
